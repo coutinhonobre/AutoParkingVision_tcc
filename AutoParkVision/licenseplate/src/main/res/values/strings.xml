@@ -1,0 +1,7 @@
+<resources>
+    <string name="gpu">GPU</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="saida">Saída</string>
+    <string name="entrada">Entrada</string>
+    <string name="digite_a_placa_do_ve_culo">Digite a placa do veículo</string>
+</resources>
