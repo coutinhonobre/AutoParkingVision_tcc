@@ -1,0 +1,9 @@
+# Ignorar a pasta dataset
+/dataset/
+
+# Ignorar o arquivo .env
+.env
+
+/runs/*
+
+
